@@ -1,3 +1,5 @@
+<img width="1829" height="945" alt="image" src="https://github.com/user-attachments/assets/0d398311-9980-4f5c-8562-0ba93449846e" />
+
 # 👋 Hi, I'm Jamal
 
 💻 Java Developer in Progress  
