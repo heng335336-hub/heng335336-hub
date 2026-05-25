@@ -1,10 +1,8 @@
-<p align="center">
-  <img 
+<img 
     src="git_no_bg_banner.gif" 
     width="100%" 
     style="border:none; box-shadow:none; background:none;"
   />
-</p>
 
 # 👋 Hi, I'm Jamal
 
