@@ -15,7 +15,7 @@
 
 ## 🌱 About Us
 
-- 🔭 We currently improving my Java skills
+- 🔭 We currently improving our Java skills
 - 🧠 Learning problem solving & clean code
 - 💡 We enjoy turning ideas into working software
 - 📈 Growing one commit at a time
