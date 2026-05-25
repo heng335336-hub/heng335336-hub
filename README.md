@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/user-attachments/assets/e6c93b23-2e7b-4308-b8e3-ed9a486b01a2" 
+    src="git_no_bg_banner.gif" 
     width="100%" 
     style="border:none; box-shadow:none; background:none;"
   />
