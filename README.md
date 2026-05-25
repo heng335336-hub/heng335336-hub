@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Jamal
 
-<!--
-**heng335336-hub/heng335336-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer in Progress  
+🚀 Passionate about building real-world applications  
+🛠 Currently working on **JavaInk**  
+🎯 Goal: Become a professional Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+- 🔭 I’m currently improving my Java skills
+- 🧠 Learning problem solving & clean code
+- 💡 I enjoy turning ideas into working software
+- 📈 Growing one commit at a time
+
+---
+
+## 🛠️ Languages & Tools
+
+![Java]
+![Git]
+![GitHub]
+![IntelliJ IDEA]
+
+---
+
+## 🔥 Current Project
+
+### 📝 JavaInk
+> A custom Notepad application built with Java  
+> Improving the classic text editor with better structure and features.
+
+---
+
+## 📊 GitHub Stats
+
+Sorry I left nothing here :)
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ To be advance coder not vibe coder
+
+---
+
+## 🤝 Connect With Me
+
+📧 heng335336@gmail.com  
+
+---
+
+⭐ *“Consistency beats motivation.”*
