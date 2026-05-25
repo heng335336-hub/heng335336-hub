@@ -5,6 +5,7 @@
     style="border:none; box-shadow:none; background:none;"
   />
 </p>
+<img width="1830" height="945" alt="image" src="https://github.com/user-attachments/assets/0649cb51-a7d6-4d23-bc5f-2a04f4f1040a" />
 
 
 # 👋 Hi, I'm Jamal
