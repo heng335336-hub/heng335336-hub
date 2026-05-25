@@ -5,19 +5,19 @@
   />
 
 # 👋 Hi, I'm Jamal
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Jamal+Jr+(HengLim)&fontSize=40&fontColor=fff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Jamal+Jr+,+My+guys+:+Phanin+Vansak+Gekeng+Tola+&fontSize=30&fontColor=fff&animation=fadeIn"/>
 💻 Java Developer in Progress </p>  
 🚀 Passionate about building real-world applications  
-🛠 Currently working on **JavaInk**  
+🛠  Currently working on **JavaInk**  
 🎯 Goal: Become a professional Software Engineer  
 
 ---
 
-## 🌱 About Me
+## 🌱 About Us
 
-- 🔭 I’m currently improving my Java skills
+- 🔭 We currently improving my Java skills
 - 🧠 Learning problem solving & clean code
-- 💡 I enjoy turning ideas into working software
+- 💡 We enjoy turning ideas into working software
 - 📈 Growing one commit at a time
 
 ---
@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=2000&color=FF4500&center=true&vCenter=true&width=800&lines=Sorry+I+left+nothing+here+:)">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=2000&color=00BCD4&center=true&vCenter=true&width=800&lines=Sorry+we+left+nothing+here+:)">
 
 ---
 
