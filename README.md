@@ -1,4 +1,5 @@
-<img width="1829" height="945" alt="image" src="https://github.com/user-attachments/assets/0d398311-9980-4f5c-8562-0ba93449846e" />
+<img width="1829" height="945" alt="image" src="https://github.com/user-attachments/assets/e6c93b23-2e7b-4308-b8e3-ed9a486b01a2" />
+
 
 # 👋 Hi, I'm Jamal
 
