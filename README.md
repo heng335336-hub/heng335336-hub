@@ -1,4 +1,10 @@
-<img width="1829" height="945" alt="image" src="https://github.com/user-attachments/assets/e6c93b23-2e7b-4308-b8e3-ed9a486b01a2" />
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/e6c93b23-2e7b-4308-b8e3-ed9a486b01a2" 
+    width="100%" 
+    style="border:none; box-shadow:none; background:none;"
+  />
+</p>
 
 
 # 👋 Hi, I'm Jamal
