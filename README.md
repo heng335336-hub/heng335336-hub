@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Jamal
 
-💻 Java Developer in Progress  
+💻 <p style="color:red;"> Java Developer in Progress </p>  
 🚀 Passionate about building real-world applications  
 🛠 Currently working on **JavaInk**  
 🎯 Goal: Become a professional Software Engineer  
