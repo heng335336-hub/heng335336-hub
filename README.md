@@ -4,7 +4,7 @@
     style="border:none; box-shadow:none; background:none;"
   />
 
-# 👋 Hi, I'm Jamal
+# 👋 Hi, We're ITE
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Jamal+Jr+,+My+guys+:+Phanin+Vansak+Gekeng+Tola+&fontSize=30&fontColor=fff&animation=fadeIn"/>
 💻 Java Developer in Progress </p>  
 🚀 Passionate about building real-world applications  
