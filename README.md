@@ -24,10 +24,10 @@
 
 ## 🛠️ Languages & Tools
 
-![Java]
-![Git]
-![GitHub]
-![IntelliJ IDEA]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ---
 
@@ -47,10 +47,8 @@
 
 ## 🎯 2026 Goals
 
-- ✅ To be advance coder not vibe coder
-<p align="center">
-  <img src="https://raw.githubusercontent.com/heng335336-hub/heng335336-hub/output/pacman-contribution-graph.svg">
-</p>
+- To be advance coder not vibe coder
+
 ---
 
 ## 🤝 Connect With Me
