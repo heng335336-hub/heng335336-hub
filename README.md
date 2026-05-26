@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=2000&color=D8BFD8&center=true&vCenter=true&width=800&lines=Sorry+we+left+nothing+here+:)">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2000&pause=2000&color=D8BFD8&center=true&vCenter=true&width=800&lines=JavaInk+the+new+version+of+notepade+:)+release+soon">
 
 ---
 
