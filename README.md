@@ -31,9 +31,8 @@
 ## 🔥 Current Project
 
 ### 📝 JavaInk
-> A custom Notepad application built with Java  
+> <img src="img/custom_Notepad_application_built_with_Java___custom_purple_-removebg-preview.png" alt="" width=400 height=50> <br>
 > Improving the classic text editor with better structure and features.
-
 ---
 
 ## 📊 GitHub Stats
