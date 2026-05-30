@@ -1,5 +1,5 @@
 <img 
-    src="git_card_4.0-no_bg_36Frame.gif" 
+    src="Git_Pic_3_Newer2.png" 
     width="100%" 
     style="border:none; box-shadow:none; background:none;"
   />
